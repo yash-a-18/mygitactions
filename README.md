@@ -1,2 +1,2 @@
 # mygitactions
-A testing and learning repo for GitHub workflow actions.
+A testing and learning repository for GitHub workflow actions.
